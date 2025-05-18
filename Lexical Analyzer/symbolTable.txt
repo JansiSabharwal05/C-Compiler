@@ -1,0 +1,10 @@
+
+ Symbol Table:
+ 		Lexeme				Type			Attribute Value			Line Number
+
+                main                     Procedure                             2                                  2
+                   a                    Identifier                             5                                  3
+                   c                    Identifier                             9                                  4
+                NULL                    Identifier                            10                                  4
+                arr1                         Array                            11                                  5
+                arr2                         Array                            13                                  6
