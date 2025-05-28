@@ -1,0 +1,18 @@
+func begin modulus
+t0 = a % b
+func end
+
+func begin main
+t1 = 2
+t2 = 10
+refparam b
+refparam a
+refparam result
+call modulus, 2
+refparam "ans: %d"
+refparam ans
+refparam result
+call printf, 2
+func end
+
+
