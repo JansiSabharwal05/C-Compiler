@@ -1,9 +1,0 @@
-
-				SymbolTable
-
-		Token				Type		Line Number				Scope		Function Number
-
-                main                           INT                             2                        GLOBAL	0	1
-                   a                           INT                           3 5                       NESTING	1	1
-                   b                         FLOAT                           4 5                       NESTING	1	1
-              printf                                                           6                       NESTING	2	1
