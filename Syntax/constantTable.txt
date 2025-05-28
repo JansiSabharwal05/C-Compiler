@@ -1,0 +1,6 @@
+
+ Constants Table:
+ 			Lexeme			Type			Attribute Value			Line Number
+
+                  25                 int                             7                                  3
+                NULL                 int                            11                                  4

@@ -1,0 +1,26 @@
+
+ Table:
+ 			Lexeme			Token				Attribute Value			Line Number
+
+   #include<stdio.h>        Preprocessor Statement                             0                                  1
+                void                       Keyword                             1                                  2
+                main                     Procedure                             2                                  2
+                   {                    Punctuator                             3                                  2
+                 int                       Keyword                             4                                  3
+                   a                    Identifier                             5                                  3
+                   =                 Assignment Op                             6                                  3
+                  25              Integer Constant                             7                                  3
+                   ;                    Punctuator                             8                                  3
+                char                       Keyword                             9                                  4
+                   c                    Identifier                            10                                  4
+                   =                 Assignment Op                             6                                  4
+                NULL              Integer Constant                            11                                  4
+                   ;                    Punctuator                             8                                  4
+                char                       Keyword                             9                                  5
+                arr1                         Array                            12                                  5
+                   =                 Assignment Op                             6                                  5
+        "helloWorld"                String Literal                            13                                  5
+                   ;                    Punctuator                             8                                  5
+                char                       Keyword                             9                                  6
+                arr2                         Array                            14                                  6
+                   =                 Assignment Op                             6                                  6
